@@ -3,7 +3,7 @@
 If you want to run it with your own mailchip account, then define following variables in your `.env.local` file.
 
 - `MAILCHIMP_API_KEY=_________________`
-  `MAILCHIMP_API_SERVER=_______________`
+- `MAILCHIMP_API_SERVER=_______________`
 - `MAILCHIMP_AUDIENCE_ID=______________`
 
 You can get all those values once you create your account in Mailchimp.
